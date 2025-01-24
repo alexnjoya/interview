@@ -1,0 +1,78 @@
+[
+    {
+      "_id": "bird_001",
+      "commonName": "American Robin",
+      "scientificName": "Turdus migratorius",
+      "description": "A migratory songbird of the thrush family.",
+      "habitat": ["Forests", "Gardens", "Parks"],
+      "appearance": {
+        "size": "Medium",
+        "color": ["Brown", "Orange", "White"]
+      },
+      "photos": [
+        "https://example.com/robin1.jpg",
+        "https://example.com/robin2.jpg"
+      ]
+    },
+    {
+      "_id": "bird_002",
+      "commonName": "Northern Cardinal",
+      "scientificName": "Cardinalis cardinalis",
+      "description": "A bright red songbird with a distinctive crest.",
+      "habitat": ["Woodlands", "Backyards"],
+      "appearance": {
+        "size": "Medium",
+        "color": ["Red", "Black"]
+      },
+      "photos": [
+        "https://example.com/cardinal1.jpg",
+        "https://example.com/cardinal2.jpg"
+      ]
+    },
+    {
+      "_id": "bird_003",
+      "commonName": "Blue Jay",
+      "scientificName": "Cyanocitta cristata",
+      "description": "A striking blue bird known for its intelligence and noisy calls.",
+      "habitat": ["Forests", "Urban Areas"],
+      "appearance": {
+        "size": "Medium",
+        "color": ["Blue", "White", "Black"]
+      },
+      "photos": [
+        "https://example.com/bluejay1.jpg",
+        "https://example.com/bluejay2.jpg"
+      ]
+    },
+    {
+      "_id": "bird_004",
+      "commonName": "Great Horned Owl",
+      "scientificName": "Bubo virginianus",
+      "description": "A large owl with ear-like tufts and a deep hoot.",
+      "habitat": ["Forests", "Deserts", "Urban Areas"],
+      "appearance": {
+        "size": "Large",
+        "color": ["Brown", "White", "Black"]
+      },
+      "photos": [
+        "https://example.com/owl1.jpg",
+        "https://example.com/owl2.jpg"
+      ]
+    },
+    {
+      "_id": "bird_005",
+      "commonName": "Ruby-throated Hummingbird",
+      "scientificName": "Archilochus colubris",
+      "description": "A tiny, iridescent hummingbird known for its rapid wingbeat.",
+      "habitat": ["Gardens", "Meadows"],
+      "appearance": {
+        "size": "Small",
+        "color": ["Green", "Red", "White"]
+      },
+      "photos": [
+        "https://example.com/hummingbird1.jpg",
+        "https://example.com/hummingbird2.jpg"
+      ]
+    }
+  ]
+  
